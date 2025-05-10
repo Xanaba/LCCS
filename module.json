@@ -1,0 +1,10 @@
+{
+  "name": "lumina-city-civil-services",
+  "title": "Lumina City Civil Services",
+  "description": "Provides macros for earning income, paying bills, and managing debt in Lumina City.",
+  "version": "1.0.0",
+  "author": "Naba",
+  "scripts": ["scripts/civil-services.js"],
+  "minimumCoreVersion": "0.8.0",
+  "compatibleCoreVersion": "9"
+}
